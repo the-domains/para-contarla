@@ -1,0 +1,28 @@
+name: para contarla
+favicon: null
+layout_spectrum: 0.6932600105646998
+typography_spectrum: 0.5789183808956295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8153963300865144
+  lightness: 0.5311768657993525
+  saturation: 0.28625319991260767
+  rhythmicContrast: 0.04656656342558563
+purpose: []
